@@ -99,9 +99,9 @@
 			children = (
 				D9FFD2B020692F2C000FF728 /* AppDelegate.swift */,
 				D9FFD2B220692F2C000FF728 /* ViewController.swift */,
+				D9FFD2B420692F2C000FF728 /* Main.storyboard */,
 				D9FFD2B720692F2C000FF728 /* Assets.xcassets */,
 				D9FFD2B920692F2C000FF728 /* LaunchScreen.storyboard */,
-				D9FFD2B420692F2C000FF728 /* Main.storyboard */,
 				D9FFD2BC20692F2C000FF728 /* Info.plist */,
 			);
 			path = colorChange;
